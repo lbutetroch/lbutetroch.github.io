@@ -1,0 +1,9 @@
+.intro-message {
+	text-align: left;
+	padding-top: 20%;
+	padding-bottom: 10%;
+	color: #532941;
+}
+body {
+	background: url(BicycleCity.jpg) no-repeat top ;
+}
