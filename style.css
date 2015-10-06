@@ -1,9 +1,12 @@
 .intro-message {
 	text-align: left;
-	padding-top: 20%;
-	padding-bottom: 5%;
+	padding-top: 3%;
+	padding-bottom: 35%;
 	color: #9f1b2e;
 }
 body {
 	background: url(BicycleCity.jpg) no-repeat top;
+}
+.signup-form {
+	color: #9f1b2e;
 }
