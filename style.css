@@ -7,6 +7,12 @@
 body {
 	background: url(BicycleCity.jpg) no-repeat top;
 }
+p {
+	font-size: 75px;
+	font-family: "Arial";
+	font-weight: bold;
+}
+
 .signup-form {
 	color: #9f1b2e;
 }
