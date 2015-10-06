@@ -2,7 +2,13 @@
 	text-align: left;
 	padding-top: 20%;
 	padding-bottom: 10%;
+	padding-left: -50%;
 	color: #9f1b2e;
+}
+h1 {
+  font-weight: bold;
+  color: #9f1b2e;
+  font-size: 50px;
 }
 body {
 	background: url(BicycleCity.jpg) no-repeat top;
